@@ -21,6 +21,11 @@ body {
     padding: 3rem;
 }
 
+.header {
+    font-weight: normal;
+    text-align: center;
+}
+
 input[type="text"] + button {
     border: 0;
     margin: 0;
